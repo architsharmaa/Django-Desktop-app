@@ -7,15 +7,15 @@ The following app is a sample app with the Django framework as backend / fronten
 * **Desktop App** - The above two used are used to develop basic Django app which then later is rendered as native desktop app using **flaskwebgui** library whose UI can be modified accordingly if required.
 
 #### Usage Instruction 
-* Clone the given github repository using 
-  ```git colne git@github.com:architsharmaa/Django-Desktop-app.git``` (for SSH keys)
-  ```git colne https://github.com/architsharmaa/Django-Desktop-app.git``` (for https)
-* Install the required dependencies using 
-``` pip install requirements.txt```
-* Run the given **Desktop App* by running gui.py or enter following command
-```python gui.py```
+* Clone the given github repository using <br>
+  ```git colne git@github.com:architsharmaa/Django-Desktop-app.git``` (for SSH keys)<br><br>
+  ```git colne https://github.com/architsharmaa/Django-Desktop-app.git``` (for https)<br><br>
+* Install the required dependencies using <br>
+``` pip install requirements.txt```<br><br>
+* Run the given **Desktop App* by running gui.py or enter following command<br>
+```python gui.py```<br><br>
 
 #### Demo 
 
-The final desktop app running with django server<br>
+The final desktop app running with django server<br><br>
 ![Desktop app running with server](running_app_with_server.png)
