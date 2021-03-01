@@ -11,7 +11,7 @@ The following app is a sample app with the Django framework as backend / fronten
   ```git colne git@github.com:architsharmaa/Django-Desktop-app.git``` (for SSH keys)<br><br>
   ```git colne https://github.com/architsharmaa/Django-Desktop-app.git``` (for https)<br><br>
 * Install the required dependencies using <br>
-``` pip install requirements.txt```<br><br>
+``` pip install -r requirements.txt```<br><br>
 * Run the given **Desktop App* by running gui.py or enter following command<br>
 ```python gui.py```<br><br>
 
